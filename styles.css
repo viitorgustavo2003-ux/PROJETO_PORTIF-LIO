@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+body {
+    background-color: rgb(43, 43, 43);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+header {
+    background-color: #4d4d4d;
+}
+
+nav {
+    margin-top: 15px;
+}
+
+
+nav a {
+    color: #a0a0a0;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    color: #ffffff;
+}
+
+img {
+    width: 250px;
+    height: auto;
+    display: block;
+    margin: 20px auto; 
+    border-radius: 20px;
+}
+
+.botao-whatsapp, .botao-gmail {
+    display: inline-block;
+    color: #ffffff;
+    background-color: #161817; 
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 10px 5px;
+    font-weight: bold;
+}
+.secao-sobre{
+    background-color: #4d4d4d;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 6px;
+}
+img{border: 2px solid rgba(0, 0, 0, 0.342);
+
+}
